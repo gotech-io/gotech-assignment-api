@@ -1,6 +1,8 @@
-# Assignment API
+# GoTech Assignment API
 
-### The stack
+<img src="https://gotech.io/assets/images/common/logo.svg" alt="GoTech Logo" width="300"/>
+
+## The stack
 
 1. node - runtime
 2. express - Framework
@@ -33,5 +35,3 @@ $ npm install
 $ npx prisma generate # This will create a prisma client
 $ npm run start:dev # Or run "Debug Locally" in VSCode
 ```
-
----

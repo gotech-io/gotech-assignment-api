@@ -1,5 +1,5 @@
 {
-  "name": "assignment-api",
+  "name": "gotech-assignment-api",
   "version": "0.0.1",
   "description": "A GoTech assignment-api",
   "main": "src/index.ts",
